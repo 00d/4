@@ -1,0 +1,12 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.6rem;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.column {
+  padding: 1rem;
+  float: left;
+}
